@@ -1,8 +1,8 @@
 
 __kernel
 void kernel_addmul(
-	  float alpha,
-  	__global float *A,
+    float alpha,
+    __global float *A,
     __global float *B,
     __global float *C
   )

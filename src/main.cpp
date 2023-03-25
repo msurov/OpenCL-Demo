@@ -6,7 +6,7 @@
 #include "time.h"
 #include <iostream>
 #include "throws.h"
-#include "kernels/kernels.h"
+#include "../kernels/kernels.h"
 
 class OCL
 {
